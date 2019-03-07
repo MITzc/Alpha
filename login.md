@@ -1,1 +1,4 @@
 remember        ------>
+
+
+new var = var 
